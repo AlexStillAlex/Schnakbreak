@@ -1,7 +1,9 @@
 # Instructions
 
-1: unzip pde2path\break
+1: unzip pde2path
+
 2: Run setpde2path - change folder if you have to.
+
 3: Run cmds_ex file in the schnakfold folder. Add the entire folder to the path.
 
 
